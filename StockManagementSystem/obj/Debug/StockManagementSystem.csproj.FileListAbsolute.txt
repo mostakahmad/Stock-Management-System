@@ -1,0 +1,34 @@
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojAssemblyReference.cache
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.HomeForm.resources
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.cache
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.CoreCompileInputs.cache
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.CategoryForm.resources
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.CompanyForm.resources
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.ItemForm.resources
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.StockInForm.resources
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.StockOutForm.resources
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.SummaryForm.resources
+E:\ASP DOT NET 26 Jan 2019\WindowsAppProjectBITM\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.ReportForm.resources
+E:\All my Projects\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+E:\All my Projects\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+E:\All my Projects\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojAssemblyReference.cache
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.CategoryForm.resources
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.CompanyForm.resources
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.HomeForm.resources
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.ItemForm.resources
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.ReportForm.resources
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.StockInForm.resources
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.StockOutForm.resources
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.SummaryForm.resources
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.cache
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.CoreCompileInputs.cache
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+E:\All my Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
